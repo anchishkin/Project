@@ -50,3 +50,9 @@ div {
 .first {
     font-style: italic;
 }
+
+.cover {
+    width: 400px;
+    margin: 0 auto;
+    display: block;
+}
