@@ -44,7 +44,7 @@ div {
     /* padding: 10px 20px 30px 40px; */
     /* margin-top: 50px;
     margin-left: 50px; */
-    display: inline-block;
+    /* display: inline-block; */
 }
 
 .first {
@@ -52,7 +52,16 @@ div {
 }
 
 .cover {
-    width: 400px;
+    /* width: 400px;
     margin: 0 auto;
-    display: block;
+    display: block; */
+}
+
+.block {
+    /* position: fixed; */
+    bottom:30px;
+    right: 50px;
+    vertical-align: middle;
+    display: inline-block;
+    margin: 20px;
 }
